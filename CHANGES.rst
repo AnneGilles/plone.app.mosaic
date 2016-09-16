@@ -4,7 +4,8 @@ Changelog
 2.0.0rc3 (unreleased)
 ---------------------
 
-- Nothing changed yet.
+- Enhance documentation
+  [agitator, AnneGilles, krissik, staeff]
 
 
 2.0.0rc2 (2016-09-15)
