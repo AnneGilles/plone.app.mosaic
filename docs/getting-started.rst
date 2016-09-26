@@ -289,7 +289,7 @@ That's how we can build custom content layouts using Plone Mosaic.
         ...  _screenshots/mosaic-page-saved.png
         ...  css=html
 
-Note that this costum layout is saved for the current content element.
+Note that this custom layout is saved for the current content element.
 The *Layout* dropdown now has the button *Save* instead of *Customize*.
 With this you could save the layout for the whole site and make it available for other content elements.
 You can find more information about this in the sectionXXX.
